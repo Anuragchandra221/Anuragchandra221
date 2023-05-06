@@ -10,7 +10,7 @@ I'm Anurag Chandra. I work as a freelancer and a everyday learner. I'm grateful 
 
 📫 Shoot me an email at pothaluranurag2002@gmail.com
 
-⚡ Fun fact: I love to learn
+⚡ Fun fact: I am a musician
 
 
 <!--
