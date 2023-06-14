@@ -12,8 +12,7 @@ I'm Anurag Chandra. I work as a freelancer and a everyday learner. I'm grateful 
 
 ⚡ Fun fact: I am a musician
 
-Giithub Summary
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuragchandra221&show_icons=true&theme=radical)
+![GitHub Summary](https://github-readme-stats.vercel.app/api?username=Anuragchandra221&show_icons=true&theme=radical)
 
 
 <!--
