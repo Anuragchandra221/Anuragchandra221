@@ -12,6 +12,8 @@ I'm Anurag Chandra. I work as a freelancer and a everyday learner. I'm grateful 
 
 ⚡ Fun fact: I am a musician
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anuragchandra221&repo=github-readme-stats)](https://github.com/Anuragchandra221/github-readme-stats)
+
 
 <!--
 **Anuragchandra221/Anuragchandra221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
