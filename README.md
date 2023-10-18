@@ -1,6 +1,7 @@
 #  Hey, Anurag here.. ✌️
 🔭 I’m currently working on a freelance project<br><br>🌱 I’m currently learning Data Analytics and Machine learning<br><br>👯 I’m looking to collaborate on full stack developers<br><br>📫 Shoot me an email at pothaluranurag2002@gmail.com<br><br>⚡ Fun fact: I am a musician
 
+![](https://komarev.com/ghpvc/?username=Anuragchandra221&color=green)
 
 ## 🌐 Connect me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a_nu_ra_g__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-chandra-52a4a3205) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/a_nu_ra_g__) 
