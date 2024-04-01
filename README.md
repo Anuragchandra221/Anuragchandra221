@@ -1,5 +1,5 @@
 #  Hey, Anurag here.. ✌️
-🔭 I’m currently working on a freelance project<br><br>🌱 I’m currently learning Data Analytics and Machine learning<br><br>👯 I’m looking to collaborate on full stack developers<br><br>📫 Shoot me an email at pothaluranurag2002@gmail.com<br><br>⚡ Fun fact: I am a musician
+🔭 I’m currently working on my final year project<br><br>🌱 I’m currently learning Machine learning and AI<br><br>👯 I’m looking to collaborate on full stack developers, Machine learning engineers etc.<br><br>📫 Shoot me an email at pothaluranurag2002@gmail.com<br><br>⚡ Fun fact: I am a musician
 
 ![](https://komarev.com/ghpvc/?username=Anuragchandra221&color=green)
 
